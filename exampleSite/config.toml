@@ -41,7 +41,7 @@ name = "portfolio"
 weight = 3
 [[menu.main]]
 URL = "services"
-name = "service"
+name = "Technology"
 weight = 2
 [[menu.main]]
 URL = "about"
